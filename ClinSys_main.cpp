@@ -1,11 +1,5 @@
-/*
-            Group 03
-	- Zainab Munir Al-Qaisoum	2230004808
-	- Zahra Aiman Alsadah		2230004418
-	- Nada Ali Alshamsi			2230001749
-	- Moudhi Yousef Alanzi		2230001617
-	- Yara Hussain Alqahtani	2230006214
- */
+//  Group 03
+
 
 #include <iostream>
 #include <fstream>
